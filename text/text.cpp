@@ -158,6 +158,7 @@ int main()
 
 
 					color = '0';
+					//new kommit
 				}
 				else cout << "It isn't your turn/n";
 
@@ -166,6 +167,7 @@ int main()
 
 	}
 	//проверка гитхаба
+
 
 
 
